@@ -2,7 +2,7 @@
 
 I’m currently a Master student at University of Chicago studying Applied Data Science. Prior to my graduate study, I had five years work of experiences working at Indonesia e-commerce and online travel platform as a data analyst. I worked closely with PM, Revenue, and Marketing teams to provide valuable insights to grow business metrics using data analysis, statistical modeling, A/B testing, and machine learning. I hope to deepen my skills in analytics, data science, experimentation, and AI to explain the chaos of the world.
 
-- 🌱 I’m currently learning **machine learning, time series & forecasting, and causal inference in business applications**
+- 🌱 I’m currently learning **generative AI and NLP**
 
 - 📫 How to reach me **andrewrafael@uchicago.edu**
 
